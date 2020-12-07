@@ -1,0 +1,48 @@
+body { margin:0;}
+div.navigation{
+    background-color: lightgray;
+    font-size: 20px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 0 4px 2px -2px gray;
+}
+div.information{
+    float:left;
+}
+
+div.login\/register{
+    text-align: right;
+
+    padding-right: 50px;
+}
+div.login{
+    background-color: lightgray;
+    font-size: 50px;
+    height: 500px;
+    border: 1px solid;
+    margin-top: 10%;
+    margin-right: 25%;
+    margin-left: 25%;
+    box-shadow: 0 10px 10px 10px grey;
+}
+div.register{
+    background-color: lightgray;
+    font-size: 50px;
+    height: 500px;
+    border: 1px solid;
+    margin-top: 10%;
+    margin-right: 25%;
+    margin-left: 25%;
+    box-shadow: 0 10px 10px 10px grey;
+}
+
+a{
+    color: #000;
+    height:50%;
+}
+a:hover{
+    color: red;
+}
+
+
+
